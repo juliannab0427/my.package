@@ -19,7 +19,7 @@ Students who take this course will:
 2. Develop an advanced understanding of the R programming language
 3. Understand the principles and concepts surrounding reproducibility and open science 
 4. Discuss the ethical issues and potential bias in data and machine learning
-5. Learn how to effectively plot and visualize data (know what to do and not to do!)
+5. Learn how to effectively plot and visualize data (know what to do and what not to do!)
 
 ### PREREQUISITES
 An introductory course in statistics, biostatistics, epidemiology, or equivalent experience in statistical analysis is recommended (but not required). Programming experience in R is also recommended (again not required). Students without this experience will be encouraged to utilize the asynchronous resources provided at the end of this syllabus to obtain these skills before or during the course. Please contact Dr. Johnson to obtain a list of the required proficiencies.   
@@ -44,7 +44,7 @@ Email: ajv120@njms.rutgers.edu\
 **Instructor:** Dr. Johnson will be available virtually by appointment only. Email or text him any time to set up a time to meet!
 
 ### GitHub REPOSITORY:
-The course GitHub repository is located at: https://github.com/wevanjohnson/2025_Spring_FDS. This page will contain all information in this syllabus plus more. Homework assignments and other information pertinent to this course will be posted on this web site, which will be updated frequently, so you should visit it regularly.
+The course GitHub repository is located at: https://github.com/wevanjohnson/2025_Spring_FDS. This page will contain all information in this syllabus, as well as the homework assignments and lecture slides. You should visit it regularly, as it will be updated frequently with new homework assignments and the upcoming week's lecture slides.
 
 ### COURSE TEXTBOOKS:
 We will use multiple text resources in this class. None are required, all are freely available online or can be purchased in hard-copy. Many of my materials are adapted from these resources (thanks to the authors for these):
